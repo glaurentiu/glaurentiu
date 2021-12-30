@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Laur</h1>
 <h3 align="center">A passionate frontend developer. I am learning everyday to build beautiful apps.</h3>
 
-
+- 🔭 JavaScript Cheat Sheet with collection of snippets for devs [jsCheatSheet](https://glaurentiu.github.io/js-cheat-sheet/)
+- 
 - 🔭 I’m currently working on [cloudBoard](https://github.com/glaurentiu/cloudBoard/)
 
 - 🔭 You can have a look at the beta version [cloudBoard](https://glaurentiu.github.io/cloudBoard/)
