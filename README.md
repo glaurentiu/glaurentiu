@@ -7,7 +7,7 @@
 
 - 🔭 CV Builder made with Angular and Docx JS [CV](https://glaurentiu.github.io/cv/)\
 
-- 🔭 Small projects: [Background Generator](https://glaurentiu.github.io/bg-gradient/) , 
+- 🔭 Small projects: [Background Generator](https://glaurentiu.github.io/bg-gradient/) , [JavaScript Quizz App](https://glaurentiu.github.io/jsQuizApp/)
 
 - 🔭 You can have a look at the beta version [cloudBoard](https://glaurentiu.github.io/cloudBoard/)
 
