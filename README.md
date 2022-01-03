@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [cloudBoard](https://github.com/glaurentiu/cloudBoard/)
 
-- 🔭 CV Builder made with Angular and Docx JS[CV](https://glaurentiu.github.io/cv/)
+- 🔭 CV Builder made with Angular and Docx JS [CV](https://glaurentiu.github.io/cv/)
 
 - 🔭 You can have a look at the beta version [cloudBoard](https://glaurentiu.github.io/cloudBoard/)
 
