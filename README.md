@@ -9,7 +9,7 @@
 
 - 🔭 Small projects: [Background Generator](https://glaurentiu.github.io/bg-gradient/) , [JavaScript Quizz App](https://glaurentiu.github.io/jsQuizApp/)
 
-- 🔭 You can have a look at the beta version [cloudBoard](https://glaurentiu.github.io/cloudBoard/)
+- 🔭 You can have a look at the beta version [cloudBoard](https://cloudboard-28e8b.web.app/)
 
 - 🌱 I’m currently learning **Angular , Advanced JavaScript**
 
