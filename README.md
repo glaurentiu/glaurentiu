@@ -1,17 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laur</h1>
-<h3 align="center">A passionate frontend developer. I am learning everyday to build beautiful apps.</h3>
 
-- 🔭 JavaScript Cheat Sheet with collection of snippets for devs [jsCheatSheet](https://glaurentiu.github.io/js-cheat-sheet/)
-
-- 🔭 I’m currently working on [cloudBoard](https://github.com/glaurentiu/cloudBoard/)
-
-- 🔭 CV Builder made with Angular and Docx JS [CV](https://glaurentiu.github.io/cv/)
-
-- 🔭 Small projects: [Background Generator](https://glaurentiu.github.io/bg-gradient/) , [JavaScript Quizz App](https://glaurentiu.github.io/jsQuizApp/)
-
-- 🔭 You can have a look at the beta version [cloudBoard](https://cloudboard-28e8b.web.app/)
-
-- 🌱 I’m currently learning **Angular , Advanced JavaScript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/glaurentiu/**
 
